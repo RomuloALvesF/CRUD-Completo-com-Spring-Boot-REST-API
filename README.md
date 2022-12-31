@@ -8,7 +8,7 @@
 <li>Java 
 <li>Html
 <li>Css
-<li>Javascript
+<li>JavaScript
 <li>MySQL
 <table/>
 
