@@ -26,13 +26,6 @@
 <p>Projeto desenvolvido com intenção de aprofundamentos em estudos sobre Java web, e as interações entre back-end e front-end.</p>
 <table/>
 
-<html>
-<head>
-    <title>Exemplo de Imagem</title>
-</head>
-<body>
-    <h1>Minha Imagem</h1>
-    <img src="image\itelatesteSolo.png" alt="Minha Imagem">
-</body>
-</html>
+<img src="image\itelatesteSolo.png" alt="Minha Imagem">
+
 
