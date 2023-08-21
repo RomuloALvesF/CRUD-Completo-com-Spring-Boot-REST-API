@@ -26,6 +26,5 @@
 <p>Projeto desenvolvido com intenção de aprofundamentos em estudos sobre Java web, e as interações entre back-end e front-end.</p>
 <table/>
 
-<img src="image\itelatesteSolo.png" alt="Minha Imagem">
 
 
